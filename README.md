@@ -1,4 +1,4 @@
-TAMBAH WAKTU HUSUS
+## TAMBAH WAKTU CUSTOM
 
 # Not Maintained! Use [cad-cooldown](https://github.com/cadburry6969/cad-cooldown) instead.
 
