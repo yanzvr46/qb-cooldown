@@ -1,3 +1,5 @@
+TAMBAH WAKTU HUSUS
+
 # Not Maintained! Use [cad-cooldown](https://github.com/cadburry6969/cad-cooldown) instead.
 
 # Export Method
